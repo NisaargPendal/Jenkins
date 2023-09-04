@@ -1,4 +1,5 @@
 date 
 echo "$date"
 echo "hellow world ! "
-
+echo "$date"
+echo "After changes"
