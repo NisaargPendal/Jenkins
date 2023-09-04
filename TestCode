@@ -1,0 +1,4 @@
+date 
+echo "$date"
+echo "hellow world ! "
+
